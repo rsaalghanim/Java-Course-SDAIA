@@ -27,7 +27,7 @@ public class Account {
         balance = balance - amt;
     }
 
-    public void getBalance(double balance){
-
+    public double getBalance(){
+    return balance;
     }
 }
