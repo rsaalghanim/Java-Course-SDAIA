@@ -6,7 +6,7 @@ public class TestAccount {
     public static void main(String[] args) {
       // var a1 = new Account("MONA", 400000);
       var s =new SavingAccount("leen",100,50);
-      var c = new CheckAccount("nora",1000);
+      var c = new CheckAccount("noraaa",1000);
         System.out.println(s.getName()+":");
 s.withdraw(50);
 s.getBalance();
